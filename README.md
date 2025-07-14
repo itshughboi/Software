@@ -1,5 +1,7 @@
 # Software
 
+### General
+1. Zen
 
 ### Text Editor
 1. VSCode/VSCodium
@@ -17,6 +19,7 @@
 
 ### Security
 1. LinkLiar (MAC Spoofing) // https://github.com/halo/LinkLiar
+2. LanScan
 
 
 ### Database Management
