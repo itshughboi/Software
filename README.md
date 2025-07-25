@@ -7,6 +7,9 @@
 1. VSCode/VSCodium
 2. Sublime Text
 
+### Networking
+1. Angry IP Scanner
+
 
 ### MacOS Control
 1. MonitorControl 
